@@ -1,0 +1,18 @@
+.odd:nth-child(odd) {
+	background-color: rgb(255, 192, 203);
+	font: verdana, "DejaVu Sans", sans-serif;
+}
+
+.second:nth-child(2) {
+	color: rgb(0, 0, 255);
+	font-size: 36px;
+}
+.third:nth-child(3) {
+	font-size: 24px;
+
+}
+.fourth:nth-child(4) {
+	background-color: rgb(144, 238, 144);
+	font-size: 24px;
+	font-weight: bold;
+}
